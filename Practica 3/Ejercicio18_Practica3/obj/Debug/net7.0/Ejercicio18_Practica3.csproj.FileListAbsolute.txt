@@ -1,0 +1,15 @@
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.csproj.AssemblyReference.cache
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.AssemblyInfoInputs.cache
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.AssemblyInfo.cs
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.csproj.CoreCompileInputs.cache
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\bin\Debug\net7.0\Ejercicio18_Practica3.exe
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\bin\Debug\net7.0\Ejercicio18_Practica3.deps.json
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\bin\Debug\net7.0\Ejercicio18_Practica3.runtimeconfig.json
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\bin\Debug\net7.0\Ejercicio18_Practica3.dll
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\bin\Debug\net7.0\Ejercicio18_Practica3.pdb
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.dll
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\refint\Ejercicio18_Practica3.dll
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.pdb
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\Ejercicio18_Practica3.genruntimeconfig.cache
+C:\Users\Acost\proyectosdonet\Practica 3\Ejercicio18_Practica3\obj\Debug\net7.0\ref\Ejercicio18_Practica3.dll
