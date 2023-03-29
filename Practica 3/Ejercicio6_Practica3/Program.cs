@@ -70,11 +70,6 @@ double[,] Multiplicacion(double[,] A, double[,] B)
 }
 void ImpMatriz(double[,] m)
 {
-    ///   foreach (double a in m)
-    //{
-    //    Console.Write(a);
-    // }
-
     for (int i = 0; i < m.GetLength(0); i++)
     {
         for (int j = 0; j < m.GetLength(1); j++)
@@ -86,14 +81,67 @@ void ImpMatriz(double[,] m)
     }
 }
 
+/*public static double CalcularDeterminante(int[,] matriz)
+{
+    int n = matriz.GetLength(0);
+    double determinante = 0;
 
-double[,] A = new double[,] { { 4432, 412 } };
-double[,] B = new double[,] { { 121, 2, 2, 2 }, { 221, 1232, 321, 32 }, { 21, 123, 231, 32 } };
+    if (n == 1)
+    {
+        determinante = matriz[0, 0];
+    }
+    else if (n == 2)
+    {
+        determinante = matriz[0, 0] * matriz[1, 1] - matriz[0, 1] * matriz[1, 0];
+    }
+    else
+    {
+        for (int i = 0; i < n; i++)
+        {
+            int[,] submatriz = new int[n - 1, n - 1];
+            for (int j = 1; j < n; j++)
+            {
+                for (int k = 0; k < n; k++)
+                {
+                    if (k < i)
+                    {
+                        submatriz[j - 1, k] = matriz[j, k];
+                    }
+                    else if (k > i)
+                    {
+                        submatriz[j - 1, k - 1] = matriz[j, k];
+                    }
+                }
+            }
+            determinante += matriz[0, i] * Math.Pow(-1, i) * CalcularDeterminante(submatriz);
+        }
+    }
+
+    return determinante;
+}
+*/
+double Determinantes(double[,] m)// tiene que ser  una matriz cuadrada, solo funciona para matrices de 3x3 
+{
+    double aux;
+    if (m.GetLength(0) == 3 && m.GetLength(1) == 3)
+    {
+        aux = 1 * m[0, 0] * (m[1, 1] * m[2, 2] - m[1, 2] * m[2, 1]) - m[0, 1] * (m[1, 0] * m[2, 2] - m[1, 2] * m[2, 0]) + m[0, 2] * (m[1, 0] * m[2, 1] - m[1, 1] * m[2, 0]);
+    }
+    else
+    {
+        aux = 1 * (m[0, 0] * m[1, 1]) - (m[0, 1] * m[1, 0]);
+    }
+    return aux;
+}
+
+double[,] A = new double[,] { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 1 } };
+double[,] B = new double[,] { { 3, 2, 2 }, { 886, 3, 8 }, { 38, 2, 810 } };
 try
 {
-    double[,] X = Multiplicacion(A, B);
-    Console.WriteLine();
-    ImpMatriz(X);
+    //double[,] X = Multiplicacion(A, B);
+    //Console.WriteLine();
+    //ImpMatriz(X);
+    Console.WriteLine(Determinantes(A));
 }
 catch (IndexOutOfRangeException)
 {
