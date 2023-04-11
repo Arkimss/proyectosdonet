@@ -1,0 +1,12 @@
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\Figuras.csproj.AssemblyReference.cache
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\Figuras.AssemblyInfoInputs.cache
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\Figuras.AssemblyInfo.cs
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\bin\Debug\net7.0\Figuras.deps.json
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\bin\Debug\net7.0\Figuras.dll
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\bin\Debug\net7.0\Figuras.pdb
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\Figuras.dll
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\refint\Figuras.dll
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\Figuras.pdb
+C:\Users\Acost\proyectosdonet\Practica_4\solucionEjercicio14_Practica4\Figuras\obj\Debug\net7.0\ref\Figuras.dll
