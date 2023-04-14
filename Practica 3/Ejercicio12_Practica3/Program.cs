@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string abecedario = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
+Queue clave = { 1, 2, 3, 4 };

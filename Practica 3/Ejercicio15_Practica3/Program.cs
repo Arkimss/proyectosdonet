@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int x = 0;
+try
+{
+    Console.WriteLine(1.0 / x);
+    Console.WriteLine(1 / x);
+    Console.WriteLine("todo OK");
+}
+catch (Exception e)
+{
+    Console.WriteLine(e.Message);
+}// division por CERO XD

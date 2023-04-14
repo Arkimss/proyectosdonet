@@ -1,0 +1,15 @@
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.csproj.AssemblyReference.cache
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.AssemblyInfoInputs.cache
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.AssemblyInfo.cs
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\bin\Debug\net7.0\Ejercicio1_Practica5.exe
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\bin\Debug\net7.0\Ejercicio1_Practica5.deps.json
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\bin\Debug\net7.0\Ejercicio1_Practica5.runtimeconfig.json
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\bin\Debug\net7.0\Ejercicio1_Practica5.dll
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\bin\Debug\net7.0\Ejercicio1_Practica5.pdb
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.dll
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\refint\Ejercicio1_Practica5.dll
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.pdb
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\Ejercicio1_Practica5.genruntimeconfig.cache
+C:\Users\Acost\proyectosdonet\Practica 5\Ejercicio1_Practica5\obj\Debug\net7.0\ref\Ejercicio1_Practica5.dll

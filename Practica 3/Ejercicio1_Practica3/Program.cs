@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.CursorVisible = true;// no entiendo el error.
+Console.CursorVisible = false;// no entiendo el error.
 ConsoleKeyInfo k = Console.ReadKey(true);
 while (k.Key != ConsoleKey.End)
 {
