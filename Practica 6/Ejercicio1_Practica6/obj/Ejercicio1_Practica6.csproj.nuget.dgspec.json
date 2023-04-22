@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acost\\proyectosdonet\\Practica 5\\Ejercicio2_Practica5\\Ejercicio2_Practica5.csproj": {}
+    "C:\\Users\\Acost\\proyectosdonet\\Practica 6\\Ejercicio1_Practica6\\Ejercicio1_Practica6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acost\\proyectosdonet\\Practica 5\\Ejercicio2_Practica5\\Ejercicio2_Practica5.csproj": {
+    "C:\\Users\\Acost\\proyectosdonet\\Practica 6\\Ejercicio1_Practica6\\Ejercicio1_Practica6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acost\\proyectosdonet\\Practica 5\\Ejercicio2_Practica5\\Ejercicio2_Practica5.csproj",
-        "projectName": "Ejercicio2_Practica5",
-        "projectPath": "C:\\Users\\Acost\\proyectosdonet\\Practica 5\\Ejercicio2_Practica5\\Ejercicio2_Practica5.csproj",
+        "projectUniqueName": "C:\\Users\\Acost\\proyectosdonet\\Practica 6\\Ejercicio1_Practica6\\Ejercicio1_Practica6.csproj",
+        "projectName": "Ejercicio1_Practica6",
+        "projectPath": "C:\\Users\\Acost\\proyectosdonet\\Practica 6\\Ejercicio1_Practica6\\Ejercicio1_Practica6.csproj",
         "packagesPath": "C:\\Users\\Acost\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acost\\proyectosdonet\\Practica 5\\Ejercicio2_Practica5\\obj\\",
+        "outputPath": "C:\\Users\\Acost\\proyectosdonet\\Practica 6\\Ejercicio1_Practica6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acost\\AppData\\Roaming\\NuGet\\NuGet.Config"

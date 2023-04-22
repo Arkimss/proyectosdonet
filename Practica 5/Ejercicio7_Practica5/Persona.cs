@@ -8,7 +8,7 @@ public class Persona
     char? _Sexo;
     int? _DNI;
     string? _Nom;
-    DateTime _FechaDeNacimiento { get; set; }
+    DateTime _FechaDeNacimiento {get; set;}
 
     public Persona(string nom, char sexo, int dni, DateTime fn)
     {

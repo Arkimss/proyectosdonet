@@ -12,9 +12,10 @@ public class Cuenta
     static int _Extracciones { get; set; } = 0;
     static int _ExtraccionesDenegadas { get; set; } = 0;
     static int _CuentasCreadas { get; set; } = 0;
-    public static List<Cuenta> GetCuentas()
+    static List<Cuenta> l = new List<Cuenta>();
+    public static List<Cuenta> GetCuentas() //propiedades que se retornan a si mismas
     {
-        return GetCuentas();
+        return l;
     }
     public Cuenta()
     {
@@ -22,7 +23,7 @@ public class Cuenta
         _ID = $"{_CuentasCreadas}";
         Console.WriteLine($"Se creo la cuenta ID= {_ID}");
         _Saldo = 0;
-        GetCuentas();
+        l.Add(this);
     }
 
 
