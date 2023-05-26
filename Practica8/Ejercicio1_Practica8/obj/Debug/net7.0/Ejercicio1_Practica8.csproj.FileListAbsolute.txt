@@ -1,0 +1,15 @@
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\bin\Debug\net7.0\Ejercicio1_Practica8.exe
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\bin\Debug\net7.0\Ejercicio1_Practica8.deps.json
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\bin\Debug\net7.0\Ejercicio1_Practica8.runtimeconfig.json
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\bin\Debug\net7.0\Ejercicio1_Practica8.dll
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\bin\Debug\net7.0\Ejercicio1_Practica8.pdb
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.csproj.AssemblyReference.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.AssemblyInfoInputs.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.AssemblyInfo.cs
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.csproj.CoreCompileInputs.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.dll
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\refint\Ejercicio1_Practica8.dll
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.pdb
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\Ejercicio1_Practica8.genruntimeconfig.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Ejercicio1_Practica8\obj\Debug\net7.0\ref\Ejercicio1_Practica8.dll

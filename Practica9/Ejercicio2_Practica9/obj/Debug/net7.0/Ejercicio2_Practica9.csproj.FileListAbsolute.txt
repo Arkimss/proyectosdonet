@@ -1,0 +1,15 @@
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\bin\Debug\net7.0\Ejercicio2_Practica9.exe
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\bin\Debug\net7.0\Ejercicio2_Practica9.deps.json
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\bin\Debug\net7.0\Ejercicio2_Practica9.runtimeconfig.json
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\bin\Debug\net7.0\Ejercicio2_Practica9.dll
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\bin\Debug\net7.0\Ejercicio2_Practica9.pdb
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.csproj.AssemblyReference.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.AssemblyInfoInputs.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.AssemblyInfo.cs
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.csproj.CoreCompileInputs.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.dll
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\refint\Ejercicio2_Practica9.dll
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.pdb
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\Ejercicio2_Practica9.genruntimeconfig.cache
+C:\Users\bra99\OneDrive\Escritorio\Cosas de la facultad de acosta\proyectoAcosta\Practica9\Ejercicio2_Practica9\obj\Debug\net7.0\ref\Ejercicio2_Practica9.dll
